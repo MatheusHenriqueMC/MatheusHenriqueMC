@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>`少なくとも少しは夢を見させてください`</b>
+  <b>`At least let me dream a little`</b>
   <samp>
       <br>
       Hi there! I'm <b>Matheus Henrique</b>
