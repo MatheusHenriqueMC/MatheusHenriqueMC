@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img width="150" height="339" alt="Captura_de_tela_2026-03-16_161758-removebg-preview" src="https://github.com/user-attachments/assets/d61a33a2-a210-42e3-aeea-98dd578a8d5c" />
+  <img width="125" height="125" alt="Captura_de_tela_2026-03-16_164431-removebg-preview" src="https://github.com/user-attachments/assets/dfdde126-0aea-4e85-a30b-0027bee1aaf2" />
 </div>
 
 <div align="center">
