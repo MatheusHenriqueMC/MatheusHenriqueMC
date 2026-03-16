@@ -36,9 +36,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://github.com/user-attachments/assets/10ffb4fa-a2cf-4f48-90b5-cbb047d7708f">
-  <img width="40" src="https://github.com/user-attachments/assets/4c72745a-9cd2-456b-8648-e3394718f006">
-  <img width="40" src="https://github.com/user-attachments/assets/a99a7026-0eb3-4566-90c1-a4185766d65a">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
